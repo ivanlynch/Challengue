@@ -11,7 +11,7 @@
 			Server=(localdb);database=HibernateDB;Integrated Security=SSPI;
 		</property>
 		<property name="dialect">
-			NHibernate.Dialect.MsSql2012Dialect
+			Nhibernate.Dialect.MsSql2012Dialect
 		</property>
 	</session-factory>
 </hibernate-configuration>
